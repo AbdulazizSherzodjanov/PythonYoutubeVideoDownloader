@@ -1,2 +1,2 @@
-# Python_Youtube_Video_Downloader
-Youtubedan Video yuklovchi dastur
+# Python Youtube Video Downloader
+Youtube Video downloader Tkinter app 👨‍💻
